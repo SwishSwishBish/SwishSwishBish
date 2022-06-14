@@ -16,6 +16,7 @@ I am a self-disciplined, passionate computer engineer in Ankara/Turkey. I develo
 </a>
 <br/>
 <br/>
+<br/>
 <a href="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=tokyonight" />
 </a>

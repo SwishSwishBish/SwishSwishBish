@@ -12,12 +12,12 @@ I am a self-disciplined, passionate computer engineer in Ankara/Turkey. I develo
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=8&hide=php&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=8&hide=php&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
 <br/>
 <br/>
 <a href="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 </div>

@@ -14,7 +14,8 @@ I am a self-disciplined, passionate computer engineer in Ankara/Turkey. I develo
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=8&hide=php&theme=tokyonight" />
 </a>
-  <br/>
+<br/>
+<br/>
 <a href="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=tokyonight" />
 </a>

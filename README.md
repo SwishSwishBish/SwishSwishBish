@@ -11,8 +11,8 @@ I am a self-disciplined, passionate computer engineer in Ankara/Turkey. I develo
 ### My Github Stats:
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=8&hide=php&theme=react&hide_border=true&bg_color=0D1117">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=8&hide=php&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=7&hide=php&theme=react&hide_border=true&bg_color=0D1117">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=7&hide=php&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
 <br/>

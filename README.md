@@ -1,6 +1,8 @@
+ <p align=end><img src="https://madewithlove.now.sh/tr?heart=true&colorB=%23ff0019" alt="Made with love in Turkey"></p>
+ 
 ### Hi there 👋
 
-I am a self-disciplined, passionate computer engineer in Ankara/Turkey. I develop web-based applications. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products.
+I am a self-disciplined, passionate computer engineer. I develop web-based applications. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products.
 
 ### Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-atak%C3%B6%C5%9Fker-3a79b0235/)

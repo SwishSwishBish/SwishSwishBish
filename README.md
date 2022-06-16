@@ -24,6 +24,6 @@ I am a self-disciplined, passionate computer engineer. I develop web-based appli
 </div>
 <div align="center">
  
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish&label=VISITORS&countColor=%2353bad6" /></a>
 </div>

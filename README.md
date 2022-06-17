@@ -13,6 +13,7 @@ I am a self-disciplined, passionate computer engineer. I develop web-based appli
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SenaAtakosker)
 [![portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senaatakosker@gmail.com)
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish&label=VISITOR%20COUNTER:&labelColor=%230d1117&countColor=%2353bad6" /></a>
 
 ### My Github Stats:
 
@@ -25,9 +26,4 @@ I am a self-disciplined, passionate computer engineer. I develop web-based appli
 <a href="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&theme=react&hide_border=true&bg_color=0D1117">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=react&hide_border=true&text_color=949CA5&bg_color=00000000" />
 </a>
- 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish"><img  align="center"  src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish&label=VISITOR%20COUNTER&labelColor=%230d1117&countColor=%2353bad6" /></a>
 </div>
-
-

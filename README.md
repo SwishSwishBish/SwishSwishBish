@@ -26,7 +26,7 @@ I am a self-disciplined, passionate computer engineer. I develop web-based appli
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=react&hide_border=true&text_color=949CA5&bg_color=00000000" />
 </a>
  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish"><img  align="center"  src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwishSwishBish&label=VISITOR%20COUNTER&labelColor=%230d1117&countColor=%2353bad6" /></a>
 </div>
 

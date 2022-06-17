@@ -2,7 +2,7 @@
  
 ### Hi there 👋
 
-I'm a passionate computer engineer. I develop web-based applications. The languages I want to specialize in this field are Java and GO, however, I take care to learn and experience up-to-date technologies. I try to write clean codes that are in accordance with the principles, easy to read. I hope you can find projects here that will help you.
+I'm a passionate computer engineer. I develop web-based applications. The languages I want to specialize in this field are Java and GO. However, I give attention to learn and experience up-to-date technologies. I try to write clean codes that are in accordance with the principles and easy to read. I hope you can find projects here that will help you.
 
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,java,go,spring,maven,gradle,hibernate,postgres,mongo,firebase,redis,kubernetes,docker,heroku,aws,gcp,js,html,css,bootstrap,react,redux,vue&perline=8&theme=light)

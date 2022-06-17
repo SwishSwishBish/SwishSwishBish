@@ -5,7 +5,7 @@
 I am a self-disciplined, passionate computer engineer. I develop web-based applications. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products.
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,go,spring,maven,gradle,hibernate,postgres,mongo,firebase,redis,kubernetes,docker,heroku,aws,gcp,js,html,css,bootstrap,react,redux,vue&perline=8)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,go,spring,maven,gradle,hibernate,postgres,mongo,firebase,redis,kubernetes,docker,heroku,aws,gcp,js,html,css,bootstrap,react,redux,vue&perline=8&theme=light)
 
 ### Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-atak%C3%B6%C5%9Fker-3a79b0235/)

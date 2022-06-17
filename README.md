@@ -19,11 +19,11 @@ I am a self-disciplined, passionate computer engineer. I develop web-based appli
 
 <div>
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=7&hide=php&theme=react&hide_border=true&bg_color=0D1117">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=7&hide=php&theme=react&hide_border=true&text_color=949CA5&bg_color=00000000">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwishSwishBish&langs_count=7&hide=php&theme=react&hide_border=true&text_color=949CA5&bg_color=00000000" />
 </a>
 <br/><br/><br/>
-<a href="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&theme=react&hide_border=true&text_color=949CA5&bg_color=00000000">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=SwishSwishBish&count_private=true&show_icons=true&theme=react&hide_border=true&text_color=949CA5&bg_color=00000000" />
 </a>
 </div>
